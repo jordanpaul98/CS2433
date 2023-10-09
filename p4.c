@@ -32,9 +32,6 @@ Additional Features:
 #vars: prints the variable and constant stack
 #pop: pops top of the stack
 
-Handin Code:
-handin cs2433-rlchurc program4 p4.c
-
 */
 
 // standard librarys for strings, math, and types
