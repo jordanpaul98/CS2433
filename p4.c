@@ -1,10 +1,5 @@
 /*
-Program 4: Extending Processing of RPN, plus variable and Constants
-CS 2433 Fall 23
-Richard L. Churchill
-Due: Oct, 7, 2023
-Completed: Oct 6, 2023
-Jordan Paul, jopaul
+Jordan Paul Fall 2023
 
 read input from stdin until #stop input is encountered. Then prints the results
 of the operations indicated from stdin
