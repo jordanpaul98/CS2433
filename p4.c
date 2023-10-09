@@ -68,7 +68,7 @@ nlink* dictionary(char *name){
     // funciton to create a and allocate memory fopr new link for a constant or variable
     if (DEBUG_MODE) printf("Creating a link associated with name: [ %s ]\n", name);
 
-    if (name == '\0') {
+    if (*name == '\0') {
         printf("NameError: Variable or constant name cannot be NULL");
         exit(1);
     }
