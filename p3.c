@@ -1,10 +1,5 @@
 /*
-Program 3: stdin, Reading and Processing RPN
-CS 2433 Fall 23
-Richard L. Churchill
-Due: Sep 23, 2023
-Completed: 09/21/2023
-Jordan Paul, jopaul
+Jordan Paul Fall 2023
 
 read input from stdin until #stop input is encountered. Then prints the results
 of the operations indicated from stdin
