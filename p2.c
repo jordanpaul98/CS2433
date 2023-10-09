@@ -1,10 +1,5 @@
 /*
-Program 2: Pointers and Allocations
-CS 2433 Fall 23
-Richard L. Churchill
-Due: Sep 16, 2023
-Completed: 09/14/2023
-Jordan Paul, jopaul
+jordan paul Fall 2023
 
 	Write a program in C, named p2.c, which accepts input from stdin,
 	and creates a linked list of distinct inputs until a ‘#stop’ input is encountered,
@@ -20,9 +15,6 @@ Jordan Paul, jopaul
 	all floats will be printed first
 
 	rest of strings will be printed second
-
-    handin code:
-    handin cs2433-rlchurc program2  p2.c
 
 
     Usage:
