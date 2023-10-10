@@ -47,7 +47,7 @@ Additional Features:
 int DEBUG_MODE = 0; // print program operations
 int PRINT_RESULTS = 0; // print output of math operation
 
-char operations_types[9] = {'+', '-', '*', '\\', '^', '&', '~', '\'', '%'};
+char operations_types[9] = {'+', '-', '*', '/', '^', '&', '~', '\'', '%'};
 
 // link list node(or link)
 typedef struct link {
