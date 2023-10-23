@@ -9,3 +9,8 @@ p3.c RPN calculator
 
 p4.c RPN calculator extended with constants and variables
 
+p5.cpp RPN calculated extended with predefined constants along with new functions sin, cos, tan, sqrt, radian
+- changed to c++, using cin
+- cleaned code up
+
+
