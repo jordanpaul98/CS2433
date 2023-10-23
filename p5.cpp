@@ -1,7 +1,6 @@
 /*
 Program 5: Extending Processing of RPN, additonal functions and predefined constants
 CS 2433 Fall 23
-Richard L. Churchill
 Due: Oct, 21, 2023
 Completed: Oct 20, 2023
 Jordan Paul, jopaul
@@ -28,8 +27,6 @@ pi2     (half pi)
 compile:
 g++ p5.cpp -o p5 -lm
 
-handin:
-handin cs2433-rlchurc program5 p5.cpp
 
 */
 
