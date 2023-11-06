@@ -39,9 +39,6 @@ pi2     (half pi)
 compile:
 g++ p6.cpp -o p6 -lm
 
-handin code:
-handin cs2433-rlchurc program6 p6.cpp
-
 */
 
 #include <iostream>
