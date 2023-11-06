@@ -13,4 +13,6 @@ p5.cpp RPN calculated extended with predefined constants along with new function
 - changed to c++, using cin
 - cleaned code up
 
+p6.cpp RPN calculator extend with additional functions. swapped from struct to c++ class
+
 
