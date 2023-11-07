@@ -305,8 +305,8 @@ int main(int argc, char* argv[]){
                     }
 
                     //variables.at(intext).printLinks();
-                }else if ( type == CONSTANT_TYPE ){
-                    printf("Predefined Error: [%s] already exist", intext);
+                }else if ( variables.at(intext).getType() == CONSTANT_TYPE || type == CONSTANT_TYPE ){
+                    printf("Predefined Error: [%s] already exist\n", intext);
                     exit(1);
                 } else {
                     variables.at(intext).setValue(pop(operands));
